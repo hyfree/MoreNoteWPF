@@ -5,7 +5,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace OneFileManager.Utils
+namespace MoreNoteWPF.Utils
 {
    
     /// <summary>

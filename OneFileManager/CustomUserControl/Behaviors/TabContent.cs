@@ -8,7 +8,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Markup;
 
-namespace OneFileManager.CustomUserControl.Behaviors
+namespace MoreNoteWPF.CustomUserControl.Behaviors
 {
     /// <summary>
     /// Attached properties for persistent tab control

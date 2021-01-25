@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace OneFileManager.EverythingSDK
+namespace MoreNoteWPF.EverythingSDK
 {
  	public partial class Everything64 
 	{

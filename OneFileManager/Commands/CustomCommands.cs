@@ -1,6 +1,6 @@
 ﻿using System.Windows.Input;
 
-namespace OneFileManager.Commands
+namespace MoreNoteWPF.Commands
 {
     internal class CustomCommands
     {

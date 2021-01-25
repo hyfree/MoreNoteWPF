@@ -2,7 +2,7 @@
 using System.IO;
 
 
-namespace OneFileManager.Core.Model
+namespace MoreNoteWPF.Core.Model
 {
     public class TabPage : INotifyPropertyChanged
     {

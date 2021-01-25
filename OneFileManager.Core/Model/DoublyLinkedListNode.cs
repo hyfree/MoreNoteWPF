@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OneFileManager.Core.Model
+namespace MoreNoteWPF.Core.Model
 {
     //双向链表节点类(用来存储用户的历史访问路径)
     public class DoublyLinkedListNode

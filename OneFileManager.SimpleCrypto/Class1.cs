@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OneFileManager.SimpleCrypto
+namespace MoreNoteWPF.SimpleCrypto
 {
     public class Class1
     {

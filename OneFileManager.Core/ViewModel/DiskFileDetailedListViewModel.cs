@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OneFileManager.ViewModel
+namespace MoreNoteWPF.ViewModel
 {
     class DiskFileDetailedListViewModel
     {   

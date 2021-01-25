@@ -1,5 +1,5 @@
-﻿using OneFileManager.Core.Model;
-using OneFileManager.View;
+﻿using MoreNoteWPF.Core.Model;
+using MoreNoteWPF.View;
 using System;
 using System.Collections.ObjectModel;
 using System.Collections.Specialized;
@@ -10,7 +10,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace OneFileManager.CustomUserControl.Main
+namespace MoreNoteWPF.CustomUserControl.Main
 {
     /// <summary>
     ///     FileListView.xaml 的交互逻辑

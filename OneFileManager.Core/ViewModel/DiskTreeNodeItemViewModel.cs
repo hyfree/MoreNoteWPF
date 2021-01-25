@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
 
-namespace OneFileManager.ViewModel
+namespace MoreNoteWPF.ViewModel
 {
     internal class DiskTreeNodeItemViewModel : INotifyPropertyChanged
     {

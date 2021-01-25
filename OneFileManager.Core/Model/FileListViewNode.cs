@@ -4,9 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using OneFileManager.Core.Model;
+using MoreNoteWPF.Core.Model;
 
-namespace OneFileManager.Core.Model
+namespace MoreNoteWPF.Core.Model
 {
     public class FileListViewNode
     {

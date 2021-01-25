@@ -1,5 +1,5 @@
-﻿using OneFileManager.Core.Model;
-using OneFileManager.Utils;
+﻿using MoreNoteWPF.Core.Model;
+using MoreNoteWPF.Utils;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -16,7 +16,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using MediaDevices;
 
-namespace OneFileManager.CustomUserControl.Main
+namespace MoreNoteWPF.CustomUserControl.Main
 {
     /// <summary>
     /// DiskTreeControl.xaml 的交互逻辑

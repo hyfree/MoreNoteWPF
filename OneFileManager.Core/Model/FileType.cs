@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OneFileManager.Core.Model
+namespace MoreNoteWPF.Core.Model
 {
     public enum FileType
     {

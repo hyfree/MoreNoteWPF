@@ -10,12 +10,12 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using HandyControl.Controls;
 using HandyControl.Data;
-using OneFileManager.Commands;
-using OneFileManager.Core.Model;
-using OneFileManager.EverythingSDK;
+using MoreNoteWPF.Commands;
+using MoreNoteWPF.Core.Model;
+using MoreNoteWPF.EverythingSDK;
 using TabItem = HandyControl.Controls.TabItem;
 
-namespace OneFileManager.View
+namespace MoreNoteWPF.View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

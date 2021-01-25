@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OneFileManager.Common
+namespace MoreNoteWPF.Common
 {
     public class Class1
     {

@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace OneFileManager.Security
+namespace MoreNoteWPF.Security
 {
     public class Rfc2898
     {

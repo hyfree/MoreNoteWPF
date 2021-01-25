@@ -1,7 +1,7 @@
 ﻿using System;
-using OneFileManager.Core.Model;
+using MoreNoteWPF.Core.Model;
 
-namespace OneFileManager.EverythingSDK
+namespace MoreNoteWPF.EverythingSDK
 {
     public class SearchFile
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OneFileManager.Common.Utils
+namespace MoreNoteWPF.Common.Utils
 {
     public class FileUtil
     {

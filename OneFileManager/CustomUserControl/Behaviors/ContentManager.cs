@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Data;
 
-namespace OneFileManager.CustomUserControl.Behaviors
+namespace MoreNoteWPF.CustomUserControl.Behaviors
 {
     public class ContentManager
     {

@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using OneFileManager.DB;
+using MoreNoteWPF.DB;
 
-namespace OneFileManager.Migrations
+namespace MoreNoteWPF.Migrations
 {
     [DbContext(typeof(BloggingContext))]
     [Migration("20201226160411_init")]

@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using OneFileManager.Core.Model;
+using MoreNoteWPF.Core.Model;
 
-namespace OneFileManager.View
+namespace MoreNoteWPF.View
 {
     class TabDataTemplateSelector:DataTemplateSelector
     {

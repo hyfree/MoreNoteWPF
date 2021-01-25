@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OneFileManager.Security
+namespace MoreNoteWPF.Security
 {
    public class HexUtil
     {

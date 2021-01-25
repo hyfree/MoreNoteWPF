@@ -8,7 +8,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
 
-namespace OneFileManager.CustomUserControl
+namespace MoreNoteWPF.CustomUserControl
 {
  [TemplatePart(Name = "PART_ItemsHolder", Type = typeof(System.Windows.Controls.Panel))]
 public class TabControlEx : HandyControl.Controls.TabControl

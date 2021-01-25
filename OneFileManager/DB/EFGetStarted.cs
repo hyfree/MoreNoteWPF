@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OneFileManager.DB
+namespace MoreNoteWPF.DB
 {
 public class BloggingContext : DbContext
     {

@@ -7,7 +7,7 @@ using HandyControl.Data;
 using HandyControl.Tools;
 
 
-namespace OneFileManager.CustomUserControl.Main
+namespace MoreNoteWPF.CustomUserControl.Main
 {
     /// <summary>
     /// NoUserContent.xaml 的交互逻辑

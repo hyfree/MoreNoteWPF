@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 //using System.Threading.Tasks;
 
-namespace OneFileManager.SimpleCrypto.Interfaces
+namespace MoreNoteWPF.SimpleCrypto.Interfaces
 {
     /// <summary>
     /// Interface for Simple Crypto Service

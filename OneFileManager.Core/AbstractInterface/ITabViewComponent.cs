@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OneFileManager.Core.AbstractInterface
+namespace MoreNoteWPF.Core.AbstractInterface
 {
     /// <summary>
     /// TabView视图组件

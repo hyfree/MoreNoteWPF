@@ -4,12 +4,12 @@ using System.Diagnostics;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
-using OneFileManager.SimpleCrypto.Interfaces;
+using MoreNoteWPF.SimpleCrypto.Interfaces;
 
 
 //using System.Threading.Tasks;
 
-namespace OneFileManager.SimpleCrypto
+namespace MoreNoteWPF.SimpleCrypto
 {
 
     /// <summary>

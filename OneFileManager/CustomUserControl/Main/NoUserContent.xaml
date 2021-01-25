@@ -1,8 +1,8 @@
 ﻿<Grid
-    x:Class="OneFileManager.CustomUserControl.Main.NoUserContent"
+    x:Class="MoreNoteWPF.CustomUserControl.Main.NoUserContent"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:cus="clr-namespace:OneFileManager.Commands"
+    xmlns:cus="clr-namespace:MoreNoteWPF.Commands"
     xmlns:hc="https://handyorg.github.io/handycontrol"
     Height="29">
 

@@ -10,7 +10,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace OneFileManager.SimpleCrypto
+namespace MoreNoteWPF.SimpleCrypto
 {
 
     public enum PasswordGroup

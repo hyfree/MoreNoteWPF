@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace OneFileManager.Utils
+namespace MoreNoteWPF.Utils
 {
     class DiskUtil
     {
