@@ -91,8 +91,8 @@
 	  <Folder Include="View\TabView\" />
 	</ItemGroup>
 	<ItemGroup>
-	  <ProjectReference Include="..\OneFileManager.Core\OneFileManager.Core.csproj" />
-	  <ProjectReference Include="..\OneFileManager.Everything\OneFileManager.EverythingSDK.csproj" />
+	  <ProjectReference Include="..\OneFileManager.Core\MoreNoteWPF.Core.csproj" />
+	  <ProjectReference Include="..\OneFileManager.Everything\MoreNoteWPF.EverythingSDK.csproj" />
 	</ItemGroup>
 	<ItemGroup>
 	  <None Update="InstallPackage_blue_128.ico">

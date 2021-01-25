@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OneFileManager.AESFiles\OneFileManager.Security.csproj" />
+    <ProjectReference Include="..\OneFileManager.AESFiles\MoreNoteWPF.Security.csproj" />
   </ItemGroup>
 
 </Project>
